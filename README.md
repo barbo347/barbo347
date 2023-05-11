@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cecília B.
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on researches 
 - 📫 How to reach me barbosa.c.s@oulook.com
