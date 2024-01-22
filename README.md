@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cecília B.
-- 🌱 I’m interested in Machine Learning and Quantum computing
+- 🌱 I’m interested in Machine Learning, NLP and Logics
 - 📫 How to reach me barbosa.c.s@oulook.com
 
 ### Languages and Skills
