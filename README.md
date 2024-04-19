@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cecília B.
-- 🌱 I’m interested in Machine Learning, Neural Networks and Logics
+- 🌱 I’m interested in Machine Learning, Neural Networks and Logic
 - 📫 How to reach me barbosa.c.s@oulook.com
 
 ### Languages and Skills
